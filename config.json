@@ -1,6 +1,6 @@
 {
   "server": "ibenot.com",
-  "home-timeline-length": 200,
+  "home-timeline-length": 100,
   "max-followings": 80,
   "from-notifications": 1
 }
