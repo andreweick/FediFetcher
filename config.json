@@ -1,0 +1,7 @@
+{
+  "access-token": "Your access token",
+  "server": "ibenot.com",
+  "home-timeline-length": 400,
+  "max-followings": 80,
+  "from-notifications": 1
+}
